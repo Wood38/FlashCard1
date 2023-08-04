@@ -6,7 +6,7 @@
 It's the first part of our Flash Card. In this part we have a question and when the user click on it, he or she will see the answer.
 ## app walk_though
 
-<img src="C:\Users\DELL\FlashCardApp\Gift" width=200><br>
+<img src="https://github.com/Wood38/FlashCard1.git" width="250"/>
 
 ## Required
 - [x] Create New Project in Android Studio 
