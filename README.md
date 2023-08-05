@@ -1,4 +1,4 @@
-## Realize by Wilbenson TANELUS and John Gassendy RENE
+## Realize by Wilbenson TANELUS 
 
 ## FlashCard App
 
