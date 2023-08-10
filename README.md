@@ -7,7 +7,7 @@ an answer
 ### App Walk-though
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/Wood38/FlashCard1/blob/main/Lab4wilby_edit_0.gif" width=200><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
