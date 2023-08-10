@@ -5,46 +5,59 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@drawable/relative_back">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Flash Card App"
+        android:text="QuizSense"
         android:layout_marginTop="10dp"
-        android:textSize="20dp"
+        android:textSize="30dp"
         android:textStyle="bold"
-
-        />
-
+        android:textColor="@color/white"
+        android:textAlignment="center"/>
 
 
     <TextView
         android:id="@+id/flaschcard_question"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:layout_marginTop="60dp"
-        android:foreground="@drawable/border_style"
+        android:layout_height="210dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="160dp"
         android:background="@drawable/background"
         android:text="Quelle est la plus grande foret du monde?"
         android:textAlignment="center"
-        android:textSize="35sp" />
+        android:textSize="33sp"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:paddingTop="55dp"
+        />
 
     <TextView
         android:id="@+id/flaschcard_answer"
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="60dp"
         android:layout_below="@id/flaschcard_question"
         android:layout_marginTop="80dp"
         android:background="@drawable/back_answer"
         android:text="Amazonie"
         android:textAlignment="center"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:textStyle="bold"
+        android:paddingTop="10dp"
         android:visibility="gone" />
 
 
-
+    <ImageView
+        android:id="@+id/add_question"
+        android:layout_width="79dp"
+        android:layout_height="72dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="307dp"
+        android:layout_marginBottom="45dp"
+        android:src="@drawable/plus" />
 
 
 </RelativeLayout>
