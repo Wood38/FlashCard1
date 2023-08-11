@@ -26,6 +26,6 @@ an answer
 It's the first part of our Flash Card. In this part we have a question and when the user click on it, he or she will see the answer.
 ## app walk_though
 
-<img src="https://github.com/Wood38/FlashCard1.git" width="250"/>
+<img src="https://github.com/Wood38/FlashCard1/blob/master/FlashCard%20Lab2_edit_0.gif" width="250"/>
 
 
