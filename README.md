@@ -1,7 +1,7 @@
 ## Lab 3
 
 ### App Description
- As you can see in this part we:display a question in text form, display the answer to the question when the question is clicked on allow the user to create their own cards through a separate screen
+ As you can see in this part we:display a question in text form, display the answer to the question when the question is clicked on allow the user to create their own cards through a separate screen.
 
 ### App Walk-though
 
