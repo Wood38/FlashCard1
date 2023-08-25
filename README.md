@@ -7,7 +7,7 @@
 3 User sees flashcards animating in / out when the 'next' button is tapped.
 
 ### App Walk-though
-<img src="" width=200><br>
+<img src="https://github.com/Wood38/FlashCard1/blob/master/Greatlab4.gif" width=200><br>
 
 
 
