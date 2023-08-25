@@ -60,8 +60,9 @@
         android:layout_height="72dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="307dp"
-        android:layout_marginBottom="45dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="163dp"
+        android:layout_marginBottom="8dp"
         android:src="@drawable/plus" />
 
     <ImageView
@@ -70,8 +71,8 @@
         android:layout_height="48dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="326dp"
-        android:layout_marginBottom="290dp"
+        android:layout_marginStart="314dp"
+        android:layout_marginBottom="123dp"
         android:clickable="true"
         android:focusable="true"
         android:src="@drawable/next" />
@@ -82,8 +83,8 @@
         android:layout_height="48dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="2dp"
-        android:layout_marginBottom="289dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="122dp"
         android:clickable="true"
         android:focusable="true"
         android:src="@drawable/recycle" />
